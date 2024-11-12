@@ -5,8 +5,10 @@ Computer Security Foundations (FSI)
 **Contents**  
 Solved weekly TP classes (LOGBOOKS)  
 Solved weekly CTFs  
+Personal notes for studying  
+Slides from the lectures
 
-*Note: contents are only available after deadlines to prevent plagiarism.*
+*Note: Some contents are only available after deadlines to prevent plagiarism.*
 
 **Labs**  
 [SeedLabs](https://seedsecuritylabs.org/)  
