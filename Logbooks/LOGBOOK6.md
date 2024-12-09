@@ -10,7 +10,7 @@ A tarefa consiste em fornecer uma entrada ao servidor que contenha uma format st
 
     - Primeiro, enviamos uma mensagem simples ao servidor utilizando o comando `echo`.
     - Comando:
-      ![Chamada do echo](../../img/logbook6-img1.png)
+      ![Chamada do echo](../img/logbook6-img1.png)
     - Saída esperada no contentor:
       ![Resultado do echo](../img/logbook6-img2.png)
     - Neste caso, o programa não "crashou" pois retornou `(^_^)(^_^)  Returned properly (^_^)(^_^)`.
