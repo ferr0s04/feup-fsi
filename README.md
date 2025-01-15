@@ -8,8 +8,6 @@ Solved weekly CTFs
 Personal notes for studying  
 Slides from the lectures
 
-*Note: Some contents are only available after deadlines to prevent plagiarism.*
-
 **Labs**  
 [SeedLabs](https://seedsecuritylabs.org/)  
 
